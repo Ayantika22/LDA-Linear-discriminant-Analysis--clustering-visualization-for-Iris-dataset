@@ -31,6 +31,6 @@ Citing the paper(if referred) is mandatory since the paper has copyrights.
 
 # Enjoy Coding
 
-Kmeans Cluster
+LDA Cluster
 
 ![alt text](https://github.com/Ayantika22/LDA-clustering-visualization-for-Iris-dataset/blob/master/image.png)
