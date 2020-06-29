@@ -13,7 +13,7 @@ Requirements
 
 5. Iris dataset
 
-This Program is About Kmeans and HCA CLustering analysis of iris dataset.
+This Program is About latent discriminant analysis of iris dataset for clustering visualization.
 
 I have used Jupyter console.
 
@@ -33,4 +33,4 @@ Citing the paper(if referred) is mandatory since the paper has copyrights.
 
 Kmeans Cluster
 
-![alt text](
+![alt text](https://github.com/Ayantika22/LDA-clustering-visualization-for-Iris-dataset/blob/master/image.png)
