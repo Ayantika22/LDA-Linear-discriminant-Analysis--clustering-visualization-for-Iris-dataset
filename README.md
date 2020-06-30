@@ -13,7 +13,7 @@ Requirements
 
 5. Iris dataset
 
-This Program is About latent discriminant analysis of iris dataset for clustering visualization.
+This Program is About linear discriminant analysis of iris dataset for clustering visualization.
 
 I have used Jupyter console.
 
